@@ -35,7 +35,7 @@ cyberpunk
 
 #character:
 detective
-solider
+soldier
 vampire hunter
 ghost
 secret agent
